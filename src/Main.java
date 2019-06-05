@@ -1,5 +1,4 @@
 import java.io.IOException;
-
 import javax.swing.JOptionPane;
 
 public class Main {
@@ -35,6 +34,7 @@ public class Main {
 					break;
 					
 				case 4:
+					JOptionPane.showMessageDialog(null, "Adeus!");
 					break;
 					
 				default:
